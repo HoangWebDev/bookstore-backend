@@ -36,8 +36,7 @@ namespace BookStore.Services
 
                     🔹 Tiêu đề: {request.Title}
                     🔹 Từ khóa: {request.Keywords}
-                    🔹 Độ dài mong muốn: {request.DesiredLength}
-                    🔹 Có hình ảnh minh họa không?: {(request.HasImage ? "Có" : "Không")}
+                    🔹 Độ dài mong muốn: {request.DesiredLength}                    
 
                     Yêu cầu:
                     - Ngắn gọn, rõ ràng, hấp dẫn
